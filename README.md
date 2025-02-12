@@ -12,3 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm Priscila Lopez! 👋
+
+
+📊 GitHub Stats
+
+
+👤 Let's Connect!
+
+Feel free to check out my repositories or reach out if you're interested in collaboration, discussing technology, or sharing knowledge!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priscila-lopez-brito)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:prisscilalb@gmail.com)
