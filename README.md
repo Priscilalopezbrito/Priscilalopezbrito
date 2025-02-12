@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-Priscila Lopez! 👋
+My name is Priscila Lopez! 
 
 
 📊 GitHub Stats
