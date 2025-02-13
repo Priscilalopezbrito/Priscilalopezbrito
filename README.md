@@ -1,4 +1,4 @@
-## 🌟 Hi, I’m Priscila Lopez! 👋
+## Hi, I’m Priscila Lopez! 👋
 
 🚀 **Software Engineer | Banking Industry Background | Problem Solver**
 
