@@ -1,4 +1,4 @@
-## Hi, I’m Priscila Lopez! 👋
+##Hi, I’m Priscila Lopez! 👋
 
 🚀 **Software Engineer | Banking Industry Background | Problem Solver**
 
@@ -11,19 +11,19 @@ Let's connect, collaborate, and keep learning together! ✨
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priscilalopezbrito&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priscilalopezbrito&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" width="600"/>
 </div>
 
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priscilalopezbrito&theme=github-dark-blue" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priscilalopezbrito&theme=github-dark-blue" alt="GitHub Contribution Graph" width="800"/>
 </div>
 
 ## 🚀 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilalopezbrito&langs_count=6&theme=merko&layout=compact&hide=Jupyter%20Notebook&include_titles=false&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilalopezbrito&langs_count=6&theme=merko&layout=compact&hide=Jupyter%20Notebook&include_titles=false&custom_title=Most%20Used%20Languages" alt="Top Languages" width="500"/>
 </div>
 
 ---
