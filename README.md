@@ -2,9 +2,9 @@
 
 🚀 **Software Engineer | Banking Industry Background | Problem Solver**
 
-With 7 years in the banking industry, I’ve honed my problem-solving skills in a fast-paced environment. I love building efficient and scalable solutions, always seeking innovation and growth.
+I’m a software engineer with a background in the banking industry, where I spent 7 years developing problem-solving skills and working in a fast-paced environment. I love building efficient and scalable solutions, always looking for ways to innovate and grow.                                                                                                                       
 
-Let's connect, collaborate, and keep learning together! ✨
+Let's connect, collaborate, and keep learning together!
 
 ---
 
