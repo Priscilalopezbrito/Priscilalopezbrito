@@ -38,7 +38,7 @@ Let's connect, collaborate, and keep learning together!
   <img src="https://img.shields.io/badge/JavaScript-9A5DC6?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Priscilalopezbrito&color=blue) -->
 
 ## 👤 Let's Connect!
 
